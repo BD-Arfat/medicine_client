@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Best Foods for Diabetic Patients",
+        "short_description": "To keep diabetes under control, experts recommend consuming these foods...",
+        "image": "https://img.freepik.com/free-photo/easy-flexitarian-diet-food-assortment_23-2148955539.jpg?semt=ais_hybrid",
+        "link": ""
+    },
+    {
+        "id": 2,
+        "title": "Ways to Overcome Mobile Addiction",
+        "short_description": "Learn some effective methods to avoid the harms of excessive mobile usage...",
+        "image": "https://img.freepik.com/free-photo/medium-shot-kids-with-devices_23-2149442473.jpg?ga=GA1.1.1290660191.1738382390&semt=ais_hybrid",
+        "link": ""
+    },
+    {
+        "id": 3,
+        "title": "What Should Be Your Sleep Habits?",
+        "short_description": "How important is good sleep for health? Learn about proper sleep habits...",
+        "image": "https://img.freepik.com/premium-vector/useful-tips-rules-healthy-good-sleep-bedtime-routine-peaceful-dream-relax-night-list-advice-get-rid-insomnia-sleeplessness-man-sleeping-bed-pillow-with-book-cat_458444-1047.jpg?ga=GA1.1.1290660191.1738382390&semt=ais_hybrid",
+        "link": ""
+    },
+    {
+        "id": 4,
+        "title": "Effective Ways to Prevent Heart Disease",
+        "short_description": "To stay away from heart disease, adopt some healthy habits...",
+        "image": "https://media.gettyimages.com/id/1312649315/photo/senior-man-suffering-from-chest-pain-in-bed.jpg?s=612x612&w=0&k=20&c=lTtjQ2dwr8C2fKY2l_3oyUe23AyjEYKjkRmLhO1x-PI=",
+        "link": ""
+    },
+    {
+        "id": 5,
+        "title": "Easy Ways to Lose Weight",
+        "short_description": "If you want to lose weight, follow these simple yet effective methods...",
+        "image": "https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "link": ""
+    },
+    {
+        "id": 6,
+        "title": "Skin Care: Natural Methods",
+        "short_description": "Tips and home remedies to enhance skin radiance naturally...",
+        "image": "https://img.freepik.com/free-photo/natural-cosmetic-product-collection_23-2148574896.jpg?ga=GA1.1.1290660191.1738382390&semt=ais_hybrid",
+        "link": ""
+    }
+]

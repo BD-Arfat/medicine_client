@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Md. Rahim",
+        "location": "Dhaka, Bangladesh",
+        "feedback": "Very good service! I received the delivery quickly.",
+        "rating": 5,
+        "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Fatema Akter",
+        "location": "Chittagong, Bangladesh",
+        "feedback": "The medicine prices were accurate, and the packaging was good.",
+        "rating": 4,
+        "image": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Shahin Alom",
+        "location": "Sylhet, Bangladesh",
+        "feedback": "Good experience! However, the delivery was a bit delayed.",
+        "rating": 4,
+        "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Shahin Alom",
+        "location": "Sylhet, Bangladesh",
+        "feedback": "Good experience! However, the delivery was a bit delayed.",
+        "rating": 4,
+        "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Shahin Alom",
+        "location": "Sylhet, Bangladesh",
+        "feedback": "Good experience! However, the delivery was a bit delayed.",
+        "rating": 4,
+        "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Shahin Alom",
+        "location": "Sylhet, Bangladesh",
+        "feedback": "Good experience! However, the delivery was a bit delayed.",
+        "rating": 4,
+        "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    }
+]
