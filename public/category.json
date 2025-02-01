@@ -1,0 +1,47 @@
+[
+    {
+      "_id": "67913a25a89f5350929a9af7",
+      "category": "OTC Medicine",
+      "categoryImage": "https://medeasy.health/_next/image?url=https%3A%2F%2Fapi.medeasy.health%2Fmedia%2Fmedicines%2Fcategories%2Fdrugs.png&w=96&q=75"
+    },
+    {
+      "_id": "67913a25a89f5350929a9af8",
+      "category": "Devices",
+      "categoryImage": "https://medeasy.health/_next/image?url=https%3A%2F%2Fapi.medeasy.health%2Fmedia%2Fmedicines%2Fcategories%2Fglucosemeter_NutCdvY.png&w=96&q=75"
+    },
+    {
+      "_id": "67913a25a89f5350929a9af9",
+      "category": "Discount",
+      "categoryImage": "https://img.freepik.com/free-vector/diwali-festival-sale-poster-design_1017-15674.jpg?semt=ais_incoming"
+    },
+    {
+      "_id": "67913a25a89f5350929a9afa",
+      "category": "Personal Care",
+      "categoryImage": "https://medeasy.health/_next/image?url=https%3A%2F%2Fapi.medeasy.health%2Fmedia%2Fmedicines%2Fcategories%2FPersonal-Care.png&w=96&q=75"
+    },
+    {
+      "_id": "67913a25a89f5350929a9afb",
+      "category": "WomenChoice",
+      "categoryImage": "https://medeasy.health/_next/image?url=https%3A%2F%2Fapi.medeasy.health%2Fmedia%2Fmedicines%2Fcategories%2Fwoman.png&w=96&q=75"
+    },
+    {
+      "_id": "67913a25a89f5350929a9afc",
+      "category": "Diabetic Care",
+      "categoryImage": "https://medeasy.health/_next/image?url=https%3A%2F%2Fapi.medeasy.health%2Fmedia%2Fmedicines%2Fcategories%2FDiabetics-Care.png&w=96&q=75"
+    },
+    {
+      "_id": "67913a25a89f5350929a9afd",
+      "category": "Baby Care",
+      "categoryImage": "https://medeasy.health/_next/image?url=https%3A%2F%2Fapi.medeasy.health%2Fmedia%2Fmedicines%2Fcategories%2Fbaby-boy.png&w=96&q=75"
+    },
+    {
+      "_id": "67913a25a89f5350929a9afe",
+      "category": "Dental Care",
+      "categoryImage": "https://medeasy.health/_next/image?url=https%3A%2F%2Fapi.medeasy.health%2Fmedia%2Fmedicines%2Fcategories%2Fteeth.png&w=96&q=75"
+    },
+    {
+      "_id": "67913a25a89f5350929a9aff",
+      "category": "Diapers",
+      "categoryImage": "https://medeasy.health/_next/image?url=https%3A%2F%2Fapi.medeasy.health%2Fmedia%2Fmedicines%2Fcategories%2Fdiaper.png&w=96&q=75"
+    }
+  ]
